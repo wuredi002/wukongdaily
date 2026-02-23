@@ -1,4 +1,4 @@
-## 访问数：![hello]](https://views.whatilearened.today/views/github/wuredi002/scripts.svg)
+## 访问数：![hello](https://views.whatilearened.today/views/github/wuredi002/scripts.svg)
 
 ❤️ 收藏我的导航站不迷路 [here](https://wklife.netlify.app)
 
